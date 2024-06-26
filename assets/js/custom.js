@@ -27,7 +27,7 @@
 	            items:1
 	        },
 	        550:{
-	            items:2
+	            items:1
 	        },
 	        750:{
 	            items:3
